@@ -1,6 +1,6 @@
 # Ex. 3(a-c) Virtualization : Installation And Configuration of Oracle Virtual box & Kali Linux, and execution of basic Linux commands
-# NAME : HARISH S
-# REG.NO : 212223230071
+### NAME : HARISH S
+### REG.NO : 212223230071
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
 
